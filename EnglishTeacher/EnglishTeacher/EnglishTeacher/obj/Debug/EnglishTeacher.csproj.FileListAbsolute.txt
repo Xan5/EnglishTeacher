@@ -1,0 +1,442 @@
+C:\Users\Xan\source\repos\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.csprojResolveAssemblyReference.cache
+C:\Users\Xan\source\repos\EnglishTeacher\EnglishTeacher\obj\Debug\MainWindow.g.cs
+C:\Users\Xan\source\repos\EnglishTeacher\EnglishTeacher\obj\Debug\App.g.cs
+C:\Users\Xan\source\repos\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher_MarkupCompile.cache
+C:\Users\Xan\source\repos\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher_MarkupCompile.lref
+C:\Users\Xan\source\repos\EnglishTeacher\EnglishTeacher\bin\Debug\EnglishTeacher.exe
+C:\Users\Xan\source\repos\EnglishTeacher\EnglishTeacher\bin\Debug\EnglishTeacher.pdb
+C:\Users\Xan\source\repos\EnglishTeacher\EnglishTeacher\obj\Debug\MainWindow.baml
+C:\Users\Xan\source\repos\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.g.resources
+C:\Users\Xan\source\repos\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.Properties.Resources.resources
+C:\Users\Xan\source\repos\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.csproj.GenerateResource.Cache
+C:\Users\Xan\source\repos\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.csproj.CoreCompileInputs.cache
+C:\Users\Xan\source\repos\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.exe
+C:\Users\Xan\source\repos\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.pdb
+C:\Users\wojte\Desktop\EnglishTeacher\EnglishTeacher\EnglishTeacher\bin\Debug\EnglishTeacher.exe
+C:\Users\wojte\Desktop\EnglishTeacher\EnglishTeacher\EnglishTeacher\bin\Debug\EnglishTeacher.pdb
+C:\Users\wojte\Desktop\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.csprojResolveAssemblyReference.cache
+C:\Users\wojte\Desktop\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\MainWindow.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\App.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher_MarkupCompile.cache
+C:\Users\wojte\Desktop\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher_MarkupCompile.lref
+C:\Users\wojte\Desktop\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\MainWindow.baml
+C:\Users\wojte\Desktop\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.g.resources
+C:\Users\wojte\Desktop\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.Properties.Resources.resources
+C:\Users\wojte\Desktop\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.csproj.GenerateResource.Cache
+C:\Users\wojte\Desktop\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.csproj.CoreCompileInputs.cache
+C:\Users\wojte\Desktop\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.exe
+C:\Users\wojte\Desktop\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.pdb
+C:\Users\wojte\Desktop\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\EasyTest.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\EasyTest.baml
+C:\Users\wojte\Desktop\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\HardTest.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\HardTest.baml
+C:\Users\wojte\Desktop\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\MediumTest.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\Statystyki.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\MediumTest.baml
+C:\Users\wojte\Desktop\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\Statystyki.baml
+C:\Users\wojte\Desktop\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\Difficulty.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\Difficulty.baml
+C:\Users\mateu\Desktop\EnglishTeacher (1)\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.exe
+C:\Users\mateu\Desktop\EnglishTeacher (1)\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.pdb
+C:\Users\mateu\Desktop\EnglishTeacher (1)\EnglishTeacher\EnglishTeacher\EnglishTeacher\bin\Debug\EnglishTeacher.exe
+C:\Users\mateu\Desktop\EnglishTeacher (1)\EnglishTeacher\EnglishTeacher\EnglishTeacher\bin\Debug\EnglishTeacher.pdb
+C:\Users\mateu\Desktop\EnglishTeacher (1)\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.csprojResolveAssemblyReference.cache
+C:\Users\mateu\Desktop\EnglishTeacher (1)\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\Difficulty.g.cs
+C:\Users\mateu\Desktop\EnglishTeacher (1)\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\EasyTest.g.cs
+C:\Users\mateu\Desktop\EnglishTeacher (1)\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\HardTest.g.cs
+C:\Users\mateu\Desktop\EnglishTeacher (1)\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\MainWindow.g.cs
+C:\Users\mateu\Desktop\EnglishTeacher (1)\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\MediumTest.g.cs
+C:\Users\mateu\Desktop\EnglishTeacher (1)\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\Statystyki.g.cs
+C:\Users\mateu\Desktop\EnglishTeacher (1)\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\App.g.cs
+C:\Users\mateu\Desktop\EnglishTeacher (1)\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher_MarkupCompile.cache
+C:\Users\mateu\Desktop\EnglishTeacher (1)\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher_MarkupCompile.lref
+C:\Users\mateu\Desktop\EnglishTeacher (1)\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\Difficulty.baml
+C:\Users\mateu\Desktop\EnglishTeacher (1)\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\EasyTest.baml
+C:\Users\mateu\Desktop\EnglishTeacher (1)\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\HardTest.baml
+C:\Users\mateu\Desktop\EnglishTeacher (1)\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\MainWindow.baml
+C:\Users\mateu\Desktop\EnglishTeacher (1)\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\MediumTest.baml
+C:\Users\mateu\Desktop\EnglishTeacher (1)\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\Statystyki.baml
+C:\Users\mateu\Desktop\EnglishTeacher (1)\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.g.resources
+C:\Users\mateu\Desktop\EnglishTeacher (1)\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.Properties.Resources.resources
+C:\Users\mateu\Desktop\EnglishTeacher (1)\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.csproj.GenerateResource.Cache
+C:\Users\wojte\Downloads\EnglishTeacher WerByGraczyk\EnglishTeacher\EnglishTeacher\EnglishTeacher\bin\Debug\EnglishTeacher.exe
+C:\Users\wojte\Downloads\EnglishTeacher WerByGraczyk\EnglishTeacher\EnglishTeacher\EnglishTeacher\bin\Debug\EnglishTeacher.pdb
+C:\Users\wojte\Downloads\EnglishTeacher WerByGraczyk\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.csprojResolveAssemblyReference.cache
+C:\Users\wojte\Downloads\EnglishTeacher WerByGraczyk\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\Difficulty.g.cs
+C:\Users\wojte\Downloads\EnglishTeacher WerByGraczyk\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\EasyTest.g.cs
+C:\Users\wojte\Downloads\EnglishTeacher WerByGraczyk\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\HardTest.g.cs
+C:\Users\wojte\Downloads\EnglishTeacher WerByGraczyk\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\MainWindow.g.cs
+C:\Users\wojte\Downloads\EnglishTeacher WerByGraczyk\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\MediumTest.g.cs
+C:\Users\wojte\Downloads\EnglishTeacher WerByGraczyk\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\Statystyki.g.cs
+C:\Users\wojte\Downloads\EnglishTeacher WerByGraczyk\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\App.g.cs
+C:\Users\wojte\Downloads\EnglishTeacher WerByGraczyk\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher_MarkupCompile.cache
+C:\Users\wojte\Downloads\EnglishTeacher WerByGraczyk\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher_MarkupCompile.lref
+C:\Users\wojte\Downloads\EnglishTeacher WerByGraczyk\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\Difficulty.baml
+C:\Users\wojte\Downloads\EnglishTeacher WerByGraczyk\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\EasyTest.baml
+C:\Users\wojte\Downloads\EnglishTeacher WerByGraczyk\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\HardTest.baml
+C:\Users\wojte\Downloads\EnglishTeacher WerByGraczyk\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\MainWindow.baml
+C:\Users\wojte\Downloads\EnglishTeacher WerByGraczyk\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\MediumTest.baml
+C:\Users\wojte\Downloads\EnglishTeacher WerByGraczyk\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\Statystyki.baml
+C:\Users\wojte\Downloads\EnglishTeacher WerByGraczyk\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.g.resources
+C:\Users\wojte\Downloads\EnglishTeacher WerByGraczyk\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.Properties.Resources.resources
+C:\Users\wojte\Downloads\EnglishTeacher WerByGraczyk\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.csproj.GenerateResource.Cache
+C:\Users\wojte\Downloads\EnglishTeacher WerByGraczyk\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.csproj.CoreCompileInputs.cache
+C:\Users\wojte\Downloads\EnglishTeacher WerByGraczyk\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.exe
+C:\Users\wojte\Downloads\EnglishTeacher WerByGraczyk\EnglishTeacher\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.pdb
+C:\Users\mateu\Desktop\EnglishTeacher-20180102T224900Z-001\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.exe
+C:\Users\mateu\Desktop\EnglishTeacher-20180102T224900Z-001\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.pdb
+C:\Users\mateu\Desktop\EnglishTeacher-20180102T224900Z-001\EnglishTeacher\EnglishTeacher\bin\Debug\EnglishTeacher.exe
+C:\Users\mateu\Desktop\EnglishTeacher-20180102T224900Z-001\EnglishTeacher\EnglishTeacher\bin\Debug\EnglishTeacher.pdb
+C:\Users\mateu\Desktop\EnglishTeacher-20180102T224900Z-001\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.csprojResolveAssemblyReference.cache
+C:\Users\mateu\Desktop\EnglishTeacher-20180102T224900Z-001\EnglishTeacher\EnglishTeacher\obj\Debug\Difficulty.g.cs
+C:\Users\mateu\Desktop\EnglishTeacher-20180102T224900Z-001\EnglishTeacher\EnglishTeacher\obj\Debug\EasyTest.g.cs
+C:\Users\mateu\Desktop\EnglishTeacher-20180102T224900Z-001\EnglishTeacher\EnglishTeacher\obj\Debug\HardTest.g.cs
+C:\Users\mateu\Desktop\EnglishTeacher-20180102T224900Z-001\EnglishTeacher\EnglishTeacher\obj\Debug\MainWindow.g.cs
+C:\Users\mateu\Desktop\EnglishTeacher-20180102T224900Z-001\EnglishTeacher\EnglishTeacher\obj\Debug\MediumTest.g.cs
+C:\Users\mateu\Desktop\EnglishTeacher-20180102T224900Z-001\EnglishTeacher\EnglishTeacher\obj\Debug\Statystyki.g.cs
+C:\Users\mateu\Desktop\EnglishTeacher-20180102T224900Z-001\EnglishTeacher\EnglishTeacher\obj\Debug\App.g.cs
+C:\Users\mateu\Desktop\EnglishTeacher-20180102T224900Z-001\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher_MarkupCompile.cache
+C:\Users\mateu\Desktop\EnglishTeacher-20180102T224900Z-001\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher_MarkupCompile.lref
+C:\Users\mateu\Desktop\EnglishTeacher-20180102T224900Z-001\EnglishTeacher\EnglishTeacher\obj\Debug\Difficulty.baml
+C:\Users\mateu\Desktop\EnglishTeacher-20180102T224900Z-001\EnglishTeacher\EnglishTeacher\obj\Debug\EasyTest.baml
+C:\Users\mateu\Desktop\EnglishTeacher-20180102T224900Z-001\EnglishTeacher\EnglishTeacher\obj\Debug\HardTest.baml
+C:\Users\mateu\Desktop\EnglishTeacher-20180102T224900Z-001\EnglishTeacher\EnglishTeacher\obj\Debug\MainWindow.baml
+C:\Users\mateu\Desktop\EnglishTeacher-20180102T224900Z-001\EnglishTeacher\EnglishTeacher\obj\Debug\MediumTest.baml
+C:\Users\mateu\Desktop\EnglishTeacher-20180102T224900Z-001\EnglishTeacher\EnglishTeacher\obj\Debug\Statystyki.baml
+C:\Users\mateu\Desktop\EnglishTeacher-20180102T224900Z-001\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.g.resources
+C:\Users\mateu\Desktop\EnglishTeacher-20180102T224900Z-001\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.Properties.Resources.resources
+C:\Users\mateu\Desktop\EnglishTeacher-20180102T224900Z-001\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.csproj.GenerateResource.Cache
+C:\Users\wojte\Desktop\EnglishTeacher ByGraczykv2\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.csprojResolveAssemblyReference.cache
+C:\Users\wojte\Desktop\EnglishTeacher ByGraczykv2\EnglishTeacher\EnglishTeacher\obj\Debug\Difficulty.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher ByGraczykv2\EnglishTeacher\EnglishTeacher\obj\Debug\EasyTest.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher ByGraczykv2\EnglishTeacher\EnglishTeacher\obj\Debug\HardTest.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher ByGraczykv2\EnglishTeacher\EnglishTeacher\obj\Debug\MainWindow.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher ByGraczykv2\EnglishTeacher\EnglishTeacher\obj\Debug\MediumTest.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher ByGraczykv2\EnglishTeacher\EnglishTeacher\obj\Debug\Statystyki.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher ByGraczykv2\EnglishTeacher\EnglishTeacher\obj\Debug\App.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher ByGraczykv2\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher_MarkupCompile.cache
+C:\Users\wojte\Desktop\EnglishTeacher ByGraczykv2\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher_MarkupCompile.lref
+C:\Users\wojte\Desktop\EnglishTeacher ByGraczykv2\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.exe
+C:\Users\wojte\Desktop\EnglishTeacher ByGraczykv2\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.pdb
+C:\Users\wojte\Desktop\EnglishTeacher ByGraczykv2\EnglishTeacher\EnglishTeacher\bin\Debug\EnglishTeacher.exe
+C:\Users\wojte\Desktop\EnglishTeacher ByGraczykv2\EnglishTeacher\EnglishTeacher\bin\Debug\EnglishTeacher.pdb
+C:\Users\wojte\Desktop\EnglishTeacher ByGraczykv2\EnglishTeacher\EnglishTeacher\obj\Debug\Difficulty.baml
+C:\Users\wojte\Desktop\EnglishTeacher ByGraczykv2\EnglishTeacher\EnglishTeacher\obj\Debug\EasyTest.baml
+C:\Users\wojte\Desktop\EnglishTeacher ByGraczykv2\EnglishTeacher\EnglishTeacher\obj\Debug\HardTest.baml
+C:\Users\wojte\Desktop\EnglishTeacher ByGraczykv2\EnglishTeacher\EnglishTeacher\obj\Debug\MainWindow.baml
+C:\Users\wojte\Desktop\EnglishTeacher ByGraczykv2\EnglishTeacher\EnglishTeacher\obj\Debug\MediumTest.baml
+C:\Users\wojte\Desktop\EnglishTeacher ByGraczykv2\EnglishTeacher\EnglishTeacher\obj\Debug\Statystyki.baml
+C:\Users\wojte\Desktop\EnglishTeacher ByGraczykv2\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.g.resources
+C:\Users\wojte\Desktop\EnglishTeacher ByGraczykv2\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.Properties.Resources.resources
+C:\Users\wojte\Desktop\EnglishTeacher ByGraczykv2\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.csproj.GenerateResource.Cache
+C:\Users\wojte\Desktop\EnglishTeacher ByGraczykv2\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.csproj.CoreCompileInputs.cache
+C:\Users\wojte\Desktop\EnglishTeacher Wojciechowy\EnglishTeacher\EnglishTeacher\bin\Debug\EnglishTeacher.exe
+C:\Users\wojte\Desktop\EnglishTeacher Wojciechowy\EnglishTeacher\EnglishTeacher\bin\Debug\EnglishTeacher.pdb
+C:\Users\wojte\Desktop\EnglishTeacher Wojciechowy\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.csprojResolveAssemblyReference.cache
+C:\Users\wojte\Desktop\EnglishTeacher Wojciechowy\EnglishTeacher\EnglishTeacher\obj\Debug\Difficulty.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher Wojciechowy\EnglishTeacher\EnglishTeacher\obj\Debug\EasyTest.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher Wojciechowy\EnglishTeacher\EnglishTeacher\obj\Debug\HardTest.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher Wojciechowy\EnglishTeacher\EnglishTeacher\obj\Debug\MainWindow.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher Wojciechowy\EnglishTeacher\EnglishTeacher\obj\Debug\MediumTest.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher Wojciechowy\EnglishTeacher\EnglishTeacher\obj\Debug\App.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher Wojciechowy\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher_MarkupCompile.cache
+C:\Users\wojte\Desktop\EnglishTeacher Wojciechowy\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher_MarkupCompile.lref
+C:\Users\wojte\Desktop\EnglishTeacher Wojciechowy\EnglishTeacher\EnglishTeacher\obj\Debug\Difficulty.baml
+C:\Users\wojte\Desktop\EnglishTeacher Wojciechowy\EnglishTeacher\EnglishTeacher\obj\Debug\EasyTest.baml
+C:\Users\wojte\Desktop\EnglishTeacher Wojciechowy\EnglishTeacher\EnglishTeacher\obj\Debug\HardTest.baml
+C:\Users\wojte\Desktop\EnglishTeacher Wojciechowy\EnglishTeacher\EnglishTeacher\obj\Debug\MainWindow.baml
+C:\Users\wojte\Desktop\EnglishTeacher Wojciechowy\EnglishTeacher\EnglishTeacher\obj\Debug\MediumTest.baml
+C:\Users\wojte\Desktop\EnglishTeacher Wojciechowy\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.g.resources
+C:\Users\wojte\Desktop\EnglishTeacher Wojciechowy\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.Properties.Resources.resources
+C:\Users\wojte\Desktop\EnglishTeacher Wojciechowy\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.csproj.GenerateResource.Cache
+C:\Users\wojte\Desktop\EnglishTeacher Wojciechowy\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.csproj.CoreCompileInputs.cache
+C:\Users\wojte\Desktop\EnglishTeacher Wojciechowy\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.exe
+C:\Users\wojte\Desktop\EnglishTeacher Wojciechowy\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.pdb
+C:\Users\wojte\Desktop\EnglishTeacher Wojciechowy2\EnglishTeacher\EnglishTeacher\bin\Debug\EnglishTeacher.exe
+C:\Users\wojte\Desktop\EnglishTeacher Wojciechowy2\EnglishTeacher\EnglishTeacher\bin\Debug\EnglishTeacher.pdb
+C:\Users\wojte\Desktop\EnglishTeacher Wojciechowy2\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.csprojResolveAssemblyReference.cache
+C:\Users\wojte\Desktop\EnglishTeacher Wojciechowy2\EnglishTeacher\EnglishTeacher\obj\Debug\Difficulty.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher Wojciechowy2\EnglishTeacher\EnglishTeacher\obj\Debug\EasyTest.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher Wojciechowy2\EnglishTeacher\EnglishTeacher\obj\Debug\HardTest.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher Wojciechowy2\EnglishTeacher\EnglishTeacher\obj\Debug\MainWindow.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher Wojciechowy2\EnglishTeacher\EnglishTeacher\obj\Debug\MediumTest.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher Wojciechowy2\EnglishTeacher\EnglishTeacher\obj\Debug\App.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher Wojciechowy2\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher_MarkupCompile.cache
+C:\Users\wojte\Desktop\EnglishTeacher Wojciechowy2\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher_MarkupCompile.lref
+C:\Users\wojte\Desktop\EnglishTeacher Wojciechowy2\EnglishTeacher\EnglishTeacher\obj\Debug\Difficulty.baml
+C:\Users\wojte\Desktop\EnglishTeacher Wojciechowy2\EnglishTeacher\EnglishTeacher\obj\Debug\EasyTest.baml
+C:\Users\wojte\Desktop\EnglishTeacher Wojciechowy2\EnglishTeacher\EnglishTeacher\obj\Debug\HardTest.baml
+C:\Users\wojte\Desktop\EnglishTeacher Wojciechowy2\EnglishTeacher\EnglishTeacher\obj\Debug\MainWindow.baml
+C:\Users\wojte\Desktop\EnglishTeacher Wojciechowy2\EnglishTeacher\EnglishTeacher\obj\Debug\MediumTest.baml
+C:\Users\wojte\Desktop\EnglishTeacher Wojciechowy2\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.g.resources
+C:\Users\wojte\Desktop\EnglishTeacher Wojciechowy2\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.Properties.Resources.resources
+C:\Users\wojte\Desktop\EnglishTeacher Wojciechowy2\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.csproj.GenerateResource.Cache
+C:\Users\wojte\Desktop\EnglishTeacher Wojciechowy2\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.csproj.CoreCompileInputs.cache
+C:\Users\wojte\Desktop\EnglishTeacher Wojciechowy2\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.exe
+C:\Users\wojte\Desktop\EnglishTeacher Wojciechowy2\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.pdb
+C:\Users\Xan\Desktop\EnglishTeacher WD\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.csprojResolveAssemblyReference.cache
+C:\Users\Xan\Desktop\EnglishTeacher WD\EnglishTeacher\EnglishTeacher\obj\Debug\Difficulty.g.cs
+C:\Users\Xan\Desktop\EnglishTeacher WD\EnglishTeacher\EnglishTeacher\obj\Debug\EasyTest.g.cs
+C:\Users\Xan\Desktop\EnglishTeacher WD\EnglishTeacher\EnglishTeacher\obj\Debug\HardTest.g.cs
+C:\Users\Xan\Desktop\EnglishTeacher WD\EnglishTeacher\EnglishTeacher\obj\Debug\MainWindow.g.cs
+C:\Users\Xan\Desktop\EnglishTeacher WD\EnglishTeacher\EnglishTeacher\obj\Debug\MediumTest.g.cs
+C:\Users\Xan\Desktop\EnglishTeacher WD\EnglishTeacher\EnglishTeacher\obj\Debug\App.g.cs
+C:\Users\Xan\Desktop\EnglishTeacher WD\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher_MarkupCompile.cache
+C:\Users\Xan\Desktop\EnglishTeacher WD\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher_MarkupCompile.lref
+C:\Users\Xan\Desktop\EnglishTeacher WD\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.pdb
+C:\EnglishTeacher\EnglishTeacher\bin\Debug\EnglishTeacher.exe
+C:\EnglishTeacher\EnglishTeacher\bin\Debug\EnglishTeacher.pdb
+C:\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.csprojResolveAssemblyReference.cache
+C:\EnglishTeacher\EnglishTeacher\obj\Debug\Difficulty.g.cs
+C:\EnglishTeacher\EnglishTeacher\obj\Debug\EasyTest.g.cs
+C:\EnglishTeacher\EnglishTeacher\obj\Debug\HardTest.g.cs
+C:\EnglishTeacher\EnglishTeacher\obj\Debug\MainWindow.g.cs
+C:\EnglishTeacher\EnglishTeacher\obj\Debug\MediumTest.g.cs
+C:\EnglishTeacher\EnglishTeacher\obj\Debug\App.g.cs
+C:\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher_MarkupCompile.cache
+C:\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher_MarkupCompile.lref
+C:\EnglishTeacher\EnglishTeacher\obj\Debug\Difficulty.baml
+C:\EnglishTeacher\EnglishTeacher\obj\Debug\EasyTest.baml
+C:\EnglishTeacher\EnglishTeacher\obj\Debug\HardTest.baml
+C:\EnglishTeacher\EnglishTeacher\obj\Debug\MainWindow.baml
+C:\EnglishTeacher\EnglishTeacher\obj\Debug\MediumTest.baml
+C:\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.g.resources
+C:\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.Properties.Resources.resources
+C:\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.csproj.GenerateResource.Cache
+C:\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.csproj.CoreCompileInputs.cache
+C:\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.exe
+C:\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.pdb
+C:\Users\mateu\Desktop\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.exe
+C:\Users\mateu\Desktop\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.pdb
+C:\Users\mateu\Desktop\EnglishTeacher301\EnglishTeacher\EnglishTeacher\bin\Debug\EnglishTeacher.exe
+C:\Users\mateu\Desktop\EnglishTeacher301\EnglishTeacher\EnglishTeacher\bin\Debug\EnglishTeacher.pdb
+C:\Users\mateu\Desktop\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\Difficulty.g.cs
+C:\Users\mateu\Desktop\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\EasyTest.g.cs
+C:\Users\mateu\Desktop\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\HardTest.g.cs
+C:\Users\mateu\Desktop\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\MainWindow.g.cs
+C:\Users\mateu\Desktop\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\MediumTest.g.cs
+C:\Users\mateu\Desktop\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\App.g.cs
+C:\Users\mateu\Desktop\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher_MarkupCompile.cache
+C:\Users\mateu\Desktop\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher_MarkupCompile.lref
+C:\Users\mateu\Desktop\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\Difficulty.baml
+C:\Users\mateu\Desktop\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\EasyTest.baml
+C:\Users\mateu\Desktop\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\HardTest.baml
+C:\Users\mateu\Desktop\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\MainWindow.baml
+C:\Users\mateu\Desktop\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\MediumTest.baml
+C:\Users\mateu\Desktop\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.g.resources
+C:\Users\mateu\Desktop\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.Properties.Resources.resources
+C:\Users\mateu\Desktop\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.csproj.GenerateResource.Cache
+C:\Users\mateu\Desktop\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\WordAdd.baml
+C:\Users\mateu\Desktop\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\WordUpdate.baml
+C:\Users\mateu\Desktop\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\WordAdd.g.cs
+C:\Users\mateu\Desktop\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\WordList.g.cs
+C:\Users\mateu\Desktop\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\WordUpdate.g.cs
+C:\Users\mateu\Desktop\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\WordList.baml
+C:\Users\wojte\Desktop\EnglishTeacherGraczykCzwartekGodz21\EnglishTeacher301\EnglishTeacher\EnglishTeacher\bin\Debug\EnglishTeacher.exe
+C:\Users\wojte\Desktop\EnglishTeacherGraczykCzwartekGodz21\EnglishTeacher301\EnglishTeacher\EnglishTeacher\bin\Debug\EnglishTeacher.pdb
+C:\Users\wojte\Desktop\EnglishTeacherGraczykCzwartekGodz21\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.csprojResolveAssemblyReference.cache
+C:\Users\wojte\Desktop\EnglishTeacherGraczykCzwartekGodz21\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\WordAdd.baml
+C:\Users\wojte\Desktop\EnglishTeacherGraczykCzwartekGodz21\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\WordList.baml
+C:\Users\wojte\Desktop\EnglishTeacherGraczykCzwartekGodz21\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\WordUpdate.baml
+C:\Users\wojte\Desktop\EnglishTeacherGraczykCzwartekGodz21\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\Difficulty.g.cs
+C:\Users\wojte\Desktop\EnglishTeacherGraczykCzwartekGodz21\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\EasyTest.g.cs
+C:\Users\wojte\Desktop\EnglishTeacherGraczykCzwartekGodz21\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\HardTest.g.cs
+C:\Users\wojte\Desktop\EnglishTeacherGraczykCzwartekGodz21\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\MainWindow.g.cs
+C:\Users\wojte\Desktop\EnglishTeacherGraczykCzwartekGodz21\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\MediumTest.g.cs
+C:\Users\wojte\Desktop\EnglishTeacherGraczykCzwartekGodz21\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\WordAdd.g.cs
+C:\Users\wojte\Desktop\EnglishTeacherGraczykCzwartekGodz21\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\WordList.g.cs
+C:\Users\wojte\Desktop\EnglishTeacherGraczykCzwartekGodz21\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\WordUpdate.g.cs
+C:\Users\wojte\Desktop\EnglishTeacherGraczykCzwartekGodz21\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\App.g.cs
+C:\Users\wojte\Desktop\EnglishTeacherGraczykCzwartekGodz21\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher_MarkupCompile.cache
+C:\Users\wojte\Desktop\EnglishTeacherGraczykCzwartekGodz21\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher_MarkupCompile.lref
+C:\Users\wojte\Desktop\EnglishTeacherGraczykCzwartekGodz21\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\Difficulty.baml
+C:\Users\wojte\Desktop\EnglishTeacherGraczykCzwartekGodz21\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\EasyTest.baml
+C:\Users\wojte\Desktop\EnglishTeacherGraczykCzwartekGodz21\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\HardTest.baml
+C:\Users\wojte\Desktop\EnglishTeacherGraczykCzwartekGodz21\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\MainWindow.baml
+C:\Users\wojte\Desktop\EnglishTeacherGraczykCzwartekGodz21\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\MediumTest.baml
+C:\Users\wojte\Desktop\EnglishTeacherGraczykCzwartekGodz21\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.g.resources
+C:\Users\wojte\Desktop\EnglishTeacherGraczykCzwartekGodz21\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.Properties.Resources.resources
+C:\Users\wojte\Desktop\EnglishTeacherGraczykCzwartekGodz21\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.csproj.GenerateResource.Cache
+C:\Users\wojte\Desktop\EnglishTeacherGraczykCzwartekGodz21\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.csproj.CoreCompileInputs.cache
+C:\Users\wojte\Desktop\EnglishTeacherGraczykCzwartekGodz21\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.exe
+C:\Users\wojte\Desktop\EnglishTeacherGraczykCzwartekGodz21\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.pdb
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech godzina 2\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.csprojResolveAssemblyReference.cache
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech godzina 2\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\WordAdd.baml
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech godzina 2\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\WordList.baml
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech godzina 2\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\WordUpdate.baml
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech godzina 2\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\Difficulty.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech godzina 2\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\EasyTest.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech godzina 2\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\HardTest.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech godzina 2\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\MainWindow.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech godzina 2\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\MediumTest.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech godzina 2\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\WordAdd.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech godzina 2\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\WordList.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech godzina 2\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\WordUpdate.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech godzina 2\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\App.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech godzina 2\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher_MarkupCompile.cache
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech godzina 2\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher_MarkupCompile.lref
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech godzina 2\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.exe
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech godzina 2\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.pdb
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech godzina 2\EnglishTeacher301\EnglishTeacher\EnglishTeacher\bin\Debug\EnglishTeacher.exe
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech godzina 2\EnglishTeacher301\EnglishTeacher\EnglishTeacher\bin\Debug\EnglishTeacher.pdb
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech godzina 2\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\Difficulty.baml
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech godzina 2\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\EasyTest.baml
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech godzina 2\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\HardTest.baml
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech godzina 2\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\MainWindow.baml
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech godzina 2\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\MediumTest.baml
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech godzina 2\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.g.resources
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech godzina 2\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.Properties.Resources.resources
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech godzina 2\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.csproj.GenerateResource.Cache
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech godzina 2\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.csproj.CoreCompileInputs.cache
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech TestUkonczone\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.csprojResolveAssemblyReference.cache
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech TestUkonczone\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\WordAdd.baml
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech TestUkonczone\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\WordUpdate.baml
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech TestUkonczone\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\Difficulty.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech TestUkonczone\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\EasyTest.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech TestUkonczone\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\HardTest.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech TestUkonczone\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\MainWindow.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech TestUkonczone\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\MediumTest.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech TestUkonczone\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\WordAdd.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech TestUkonczone\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\WordList.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech TestUkonczone\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\WordUpdate.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech TestUkonczone\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\App.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech TestUkonczone\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher_MarkupCompile.cache
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech TestUkonczone\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher_MarkupCompile.lref
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech TestUkonczone\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.exe
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech TestUkonczone\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.pdb
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech TestUkonczone\EnglishTeacher301\EnglishTeacher\EnglishTeacher\bin\Debug\EnglishTeacher.exe
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech TestUkonczone\EnglishTeacher301\EnglishTeacher\EnglishTeacher\bin\Debug\EnglishTeacher.pdb
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech TestUkonczone\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\Difficulty.baml
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech TestUkonczone\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\EasyTest.baml
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech TestUkonczone\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\HardTest.baml
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech TestUkonczone\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\MainWindow.baml
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech TestUkonczone\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\MediumTest.baml
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech TestUkonczone\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\WordList.baml
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech TestUkonczone\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.g.resources
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech TestUkonczone\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.Properties.Resources.resources
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech TestUkonczone\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.csproj.GenerateResource.Cache
+C:\Users\wojte\Desktop\EnglishTeacher Wojciech TestUkonczone\EnglishTeacher301\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.csproj.CoreCompileInputs.cache
+C:\EnglishTeacher\EnglishTeacher\obj\Debug\WordAdd.baml
+C:\EnglishTeacher\EnglishTeacher\obj\Debug\WordUpdate.baml
+C:\EnglishTeacher\EnglishTeacher\obj\Debug\WordAdd.g.cs
+C:\EnglishTeacher\EnglishTeacher\obj\Debug\WordList.g.cs
+C:\EnglishTeacher\EnglishTeacher\obj\Debug\WordUpdate.g.cs
+C:\EnglishTeacher\EnglishTeacher\obj\Debug\WordList.baml
+C:\EnglishTeacher\EnglishTeacher\bin\Debug\EnglishTeacher.exe.config
+C:\Users\wojte\Desktop\Nowy folder\EnglishTeacher\EnglishTeacher\bin\Debug\EnglishTeacher.exe.config
+C:\Users\wojte\Desktop\Nowy folder\EnglishTeacher\EnglishTeacher\bin\Debug\EnglishTeacher.exe
+C:\Users\wojte\Desktop\Nowy folder\EnglishTeacher\EnglishTeacher\bin\Debug\EnglishTeacher.pdb
+C:\Users\wojte\Desktop\Nowy folder\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.csprojResolveAssemblyReference.cache
+C:\Users\wojte\Desktop\Nowy folder\EnglishTeacher\EnglishTeacher\obj\Debug\Difficulty.g.cs
+C:\Users\wojte\Desktop\Nowy folder\EnglishTeacher\EnglishTeacher\obj\Debug\EasyTest.g.cs
+C:\Users\wojte\Desktop\Nowy folder\EnglishTeacher\EnglishTeacher\obj\Debug\HardTest.g.cs
+C:\Users\wojte\Desktop\Nowy folder\EnglishTeacher\EnglishTeacher\obj\Debug\MainWindow.g.cs
+C:\Users\wojte\Desktop\Nowy folder\EnglishTeacher\EnglishTeacher\obj\Debug\MediumTest.g.cs
+C:\Users\wojte\Desktop\Nowy folder\EnglishTeacher\EnglishTeacher\obj\Debug\WordAdd.g.cs
+C:\Users\wojte\Desktop\Nowy folder\EnglishTeacher\EnglishTeacher\obj\Debug\WordList.g.cs
+C:\Users\wojte\Desktop\Nowy folder\EnglishTeacher\EnglishTeacher\obj\Debug\WordUpdate.g.cs
+C:\Users\wojte\Desktop\Nowy folder\EnglishTeacher\EnglishTeacher\obj\Debug\App.g.cs
+C:\Users\wojte\Desktop\Nowy folder\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher_MarkupCompile.cache
+C:\Users\wojte\Desktop\Nowy folder\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher_MarkupCompile.lref
+C:\Users\wojte\Desktop\Nowy folder\EnglishTeacher\EnglishTeacher\obj\Debug\Difficulty.baml
+C:\Users\wojte\Desktop\Nowy folder\EnglishTeacher\EnglishTeacher\obj\Debug\EasyTest.baml
+C:\Users\wojte\Desktop\Nowy folder\EnglishTeacher\EnglishTeacher\obj\Debug\HardTest.baml
+C:\Users\wojte\Desktop\Nowy folder\EnglishTeacher\EnglishTeacher\obj\Debug\MainWindow.baml
+C:\Users\wojte\Desktop\Nowy folder\EnglishTeacher\EnglishTeacher\obj\Debug\MediumTest.baml
+C:\Users\wojte\Desktop\Nowy folder\EnglishTeacher\EnglishTeacher\obj\Debug\WordAdd.baml
+C:\Users\wojte\Desktop\Nowy folder\EnglishTeacher\EnglishTeacher\obj\Debug\WordList.baml
+C:\Users\wojte\Desktop\Nowy folder\EnglishTeacher\EnglishTeacher\obj\Debug\WordUpdate.baml
+C:\Users\wojte\Desktop\Nowy folder\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.g.resources
+C:\Users\wojte\Desktop\Nowy folder\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.Properties.Resources.resources
+C:\Users\wojte\Desktop\Nowy folder\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.csproj.GenerateResource.Cache
+C:\Users\wojte\Desktop\Nowy folder\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.csproj.CoreCompileInputs.cache
+C:\Users\wojte\Desktop\Nowy folder\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.exe
+C:\Users\wojte\Desktop\Nowy folder\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.pdb
+C:\Users\mateu\Desktop\EnglishTeacher last\EnglishTeacher 37\EnglishTeacher\bin\Debug\EnglishTeacher.exe.config
+C:\Users\mateu\Desktop\EnglishTeacher last\EnglishTeacher 37\EnglishTeacher\obj\Debug\EnglishTeacher.exe
+C:\Users\mateu\Desktop\EnglishTeacher last\EnglishTeacher 37\EnglishTeacher\obj\Debug\EnglishTeacher.pdb
+C:\Users\mateu\Desktop\EnglishTeacher last\EnglishTeacher 37\EnglishTeacher\bin\Debug\EnglishTeacher.exe
+C:\Users\mateu\Desktop\EnglishTeacher last\EnglishTeacher 37\EnglishTeacher\bin\Debug\EnglishTeacher.pdb
+C:\Users\mateu\Desktop\EnglishTeacher last\EnglishTeacher 37\EnglishTeacher\obj\Debug\Difficulty.g.cs
+C:\Users\mateu\Desktop\EnglishTeacher last\EnglishTeacher 37\EnglishTeacher\obj\Debug\EasyTest.g.cs
+C:\Users\mateu\Desktop\EnglishTeacher last\EnglishTeacher 37\EnglishTeacher\obj\Debug\HardTest.g.cs
+C:\Users\mateu\Desktop\EnglishTeacher last\EnglishTeacher 37\EnglishTeacher\obj\Debug\MainWindow.g.cs
+C:\Users\mateu\Desktop\EnglishTeacher last\EnglishTeacher 37\EnglishTeacher\obj\Debug\MediumTest.g.cs
+C:\Users\mateu\Desktop\EnglishTeacher last\EnglishTeacher 37\EnglishTeacher\obj\Debug\WordAdd.g.cs
+C:\Users\mateu\Desktop\EnglishTeacher last\EnglishTeacher 37\EnglishTeacher\obj\Debug\WordList.g.cs
+C:\Users\mateu\Desktop\EnglishTeacher last\EnglishTeacher 37\EnglishTeacher\obj\Debug\WordUpdate.g.cs
+C:\Users\mateu\Desktop\EnglishTeacher last\EnglishTeacher 37\EnglishTeacher\obj\Debug\App.g.cs
+C:\Users\mateu\Desktop\EnglishTeacher last\EnglishTeacher 37\EnglishTeacher\obj\Debug\EnglishTeacher_MarkupCompile.cache
+C:\Users\mateu\Desktop\EnglishTeacher last\EnglishTeacher 37\EnglishTeacher\obj\Debug\EnglishTeacher_MarkupCompile.lref
+C:\Users\mateu\Desktop\EnglishTeacher last\EnglishTeacher 37\EnglishTeacher\obj\Debug\Difficulty.baml
+C:\Users\mateu\Desktop\EnglishTeacher last\EnglishTeacher 37\EnglishTeacher\obj\Debug\EasyTest.baml
+C:\Users\mateu\Desktop\EnglishTeacher last\EnglishTeacher 37\EnglishTeacher\obj\Debug\HardTest.baml
+C:\Users\mateu\Desktop\EnglishTeacher last\EnglishTeacher 37\EnglishTeacher\obj\Debug\MainWindow.baml
+C:\Users\mateu\Desktop\EnglishTeacher last\EnglishTeacher 37\EnglishTeacher\obj\Debug\MediumTest.baml
+C:\Users\mateu\Desktop\EnglishTeacher last\EnglishTeacher 37\EnglishTeacher\obj\Debug\WordAdd.baml
+C:\Users\mateu\Desktop\EnglishTeacher last\EnglishTeacher 37\EnglishTeacher\obj\Debug\WordList.baml
+C:\Users\mateu\Desktop\EnglishTeacher last\EnglishTeacher 37\EnglishTeacher\obj\Debug\WordUpdate.baml
+C:\Users\mateu\Desktop\EnglishTeacher last\EnglishTeacher 37\EnglishTeacher\obj\Debug\EnglishTeacher.g.resources
+C:\Users\mateu\Desktop\EnglishTeacher last\EnglishTeacher 37\EnglishTeacher\obj\Debug\EnglishTeacher.Properties.Resources.resources
+C:\Users\mateu\Desktop\EnglishTeacher last\EnglishTeacher 37\EnglishTeacher\obj\Debug\EnglishTeacher.csproj.GenerateResource.Cache
+C:\Users\mateu\Desktop\EnglishTeacher last\EnglishTeacher 37\EnglishTeacher\obj\Debug\EnglishTeacher.csprojResolveAssemblyReference.cache
+C:\Users\mateu\Desktop\EnglishTeacher last\EnglishTeacher\EnglishTeacher\bin\Debug\EnglishTeacher.exe.config
+C:\Users\mateu\Desktop\EnglishTeacher last\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.exe
+C:\Users\mateu\Desktop\EnglishTeacher last\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.pdb
+C:\Users\mateu\Desktop\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\bin\Debug\EnglishTeacher.exe.config
+C:\Users\mateu\Desktop\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.exe
+C:\Users\mateu\Desktop\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.pdb
+C:\Users\mateu\Desktop\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\bin\Debug\EnglishTeacher.exe
+C:\Users\mateu\Desktop\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\bin\Debug\EnglishTeacher.pdb
+C:\Users\mateu\Desktop\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.csprojResolveAssemblyReference.cache
+C:\Users\mateu\Desktop\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\Difficulty.g.cs
+C:\Users\mateu\Desktop\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\EasyTest.g.cs
+C:\Users\mateu\Desktop\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\HardTest.g.cs
+C:\Users\mateu\Desktop\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\MainWindow.g.cs
+C:\Users\mateu\Desktop\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\MediumTest.g.cs
+C:\Users\mateu\Desktop\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\WordAdd.g.cs
+C:\Users\mateu\Desktop\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\WordList.g.cs
+C:\Users\mateu\Desktop\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\WordUpdate.g.cs
+C:\Users\mateu\Desktop\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\App.g.cs
+C:\Users\mateu\Desktop\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher_MarkupCompile.cache
+C:\Users\mateu\Desktop\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher_MarkupCompile.lref
+C:\Users\mateu\Desktop\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\Difficulty.baml
+C:\Users\mateu\Desktop\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\EasyTest.baml
+C:\Users\mateu\Desktop\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\HardTest.baml
+C:\Users\mateu\Desktop\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\MainWindow.baml
+C:\Users\mateu\Desktop\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\MediumTest.baml
+C:\Users\mateu\Desktop\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\WordAdd.baml
+C:\Users\mateu\Desktop\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\WordList.baml
+C:\Users\mateu\Desktop\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\WordUpdate.baml
+C:\Users\mateu\Desktop\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.g.resources
+C:\Users\mateu\Desktop\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.Properties.Resources.resources
+C:\Users\mateu\Desktop\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.csproj.GenerateResource.Cache
+C:\Users\wojte\Desktop\EnglishTeacher 8012018 ver 2\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\bin\Debug\EnglishTeacher.exe.config
+C:\Users\wojte\Desktop\EnglishTeacher 8012018 ver 2\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\bin\Debug\EnglishTeacher.exe
+C:\Users\wojte\Desktop\EnglishTeacher 8012018 ver 2\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\bin\Debug\EnglishTeacher.pdb
+C:\Users\wojte\Desktop\EnglishTeacher 8012018 ver 2\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.csprojResolveAssemblyReference.cache
+C:\Users\wojte\Desktop\EnglishTeacher 8012018 ver 2\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\Difficulty.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher 8012018 ver 2\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\EasyTest.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher 8012018 ver 2\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\HardTest.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher 8012018 ver 2\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\MainWindow.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher 8012018 ver 2\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\MediumTest.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher 8012018 ver 2\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\WordAdd.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher 8012018 ver 2\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\WordList.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher 8012018 ver 2\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\WordUpdate.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher 8012018 ver 2\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\App.g.cs
+C:\Users\wojte\Desktop\EnglishTeacher 8012018 ver 2\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher_MarkupCompile.cache
+C:\Users\wojte\Desktop\EnglishTeacher 8012018 ver 2\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher_MarkupCompile.lref
+C:\Users\wojte\Desktop\EnglishTeacher 8012018 ver 2\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\Difficulty.baml
+C:\Users\wojte\Desktop\EnglishTeacher 8012018 ver 2\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\EasyTest.baml
+C:\Users\wojte\Desktop\EnglishTeacher 8012018 ver 2\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\HardTest.baml
+C:\Users\wojte\Desktop\EnglishTeacher 8012018 ver 2\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\MainWindow.baml
+C:\Users\wojte\Desktop\EnglishTeacher 8012018 ver 2\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\MediumTest.baml
+C:\Users\wojte\Desktop\EnglishTeacher 8012018 ver 2\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\WordAdd.baml
+C:\Users\wojte\Desktop\EnglishTeacher 8012018 ver 2\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\WordList.baml
+C:\Users\wojte\Desktop\EnglishTeacher 8012018 ver 2\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\WordUpdate.baml
+C:\Users\wojte\Desktop\EnglishTeacher 8012018 ver 2\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.g.resources
+C:\Users\wojte\Desktop\EnglishTeacher 8012018 ver 2\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.Properties.Resources.resources
+C:\Users\wojte\Desktop\EnglishTeacher 8012018 ver 2\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.csproj.GenerateResource.Cache
+C:\Users\wojte\Desktop\EnglishTeacher 8012018 ver 2\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.csproj.CoreCompileInputs.cache
+C:\Users\wojte\Desktop\EnglishTeacher 8012018 ver 2\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.exe
+C:\Users\wojte\Desktop\EnglishTeacher 8012018 ver 2\EnglishTeacher 8012018\EnglishTeacher\EnglishTeacher\obj\Debug\EnglishTeacher.pdb

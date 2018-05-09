@@ -1,0 +1,27 @@
+﻿<Window x:Class="EnglishTeacher.WordAdd"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:p="clr-namespace:EnglishTeacher.Properties"
+        Closing="Window_Closing"
+        Top ="{Binding Source={x:Static p:Settings.Default}, Path=LastWindowTop, Mode=TwoWay}"
+        Left ="{Binding Source={x:Static p:Settings.Default}, Path=LastWindowLeft, Mode=TwoWay}"
+        
+        Title="WordAdd" Height="300" Width="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Button  Margin="5 5" Content="Dodaj" Grid.Column="1" Grid.Row="2"  FontSize="20" Click="Button_Click"/>
+        <Button Margin="5 5" Content="Powrót" Grid.Column="0" Grid.Row="2"  FontSize="20" Click="Button_Click_1"/>
+        <TextBox x:Name="EnglishWord" HorizontalAlignment="Left" Height="23" Margin="5 5" Grid.Column="1" Grid.Row="1" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="120"/>
+        <TextBox x:Name="PolishWord" HorizontalAlignment="Left" Height="23" Margin="5 5" Grid.Column="1" Grid.Row="0" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="120"/>
+        <Label Content="Słowo po polsku" Margin="5 5" Grid.Column="0" Grid.Row="0" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+        <Label Content="Słowo po angielsku" HorizontalAlignment="Left" Margin="5 5" Grid.Column="0" Grid.Row="1" VerticalAlignment="Center"/>
+    </Grid>
+</Window>
